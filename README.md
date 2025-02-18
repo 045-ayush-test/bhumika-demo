@@ -2,8 +2,6 @@
 
 # ayush-demo
 
-<<<<<<< HEAD
 # vrienda-demo
-=======
-#vrienda-demo
->>>>>>> vrienda
+
+dev is editing this file
