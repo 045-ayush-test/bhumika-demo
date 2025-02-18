@@ -11,3 +11,8 @@ Hey guys what are you doing??
 replying to vrienda
 
 Hi! i am doing absolutely fanstastic.
+
+Today is git assessment.
+
+
+
