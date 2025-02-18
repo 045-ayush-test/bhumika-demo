@@ -1,10 +1,10 @@
-# bhumika-demo
+# Bhumika-demo
 
-# ayush-demo
+# Vrienda-demo
 
-# vrienda-demo
+# Ayush-demo
 
-dev is editing this file
+Welcome All
 
 Hey guys what are you doing??
 
