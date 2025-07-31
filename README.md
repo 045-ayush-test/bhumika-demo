@@ -1,10 +1,10 @@
-# bhumika-demo
+# Bhumika-demo
 
-# ayush-demo
+# Vrienda-demo
 
-# vrienda-demo
+# Ayush-demo
 
-dev is editing this file
+Welcome All
 
 Hey guys what are you doing??
 
@@ -13,3 +13,9 @@ replying to vrienda
 Hi! i am doing absolutely fanstastic.
 
 Hello I am branch1
+Today is git assessment.
+
+ayush
+
+bhumika
+
